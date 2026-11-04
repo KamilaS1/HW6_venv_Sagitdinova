@@ -10,13 +10,13 @@ Tested on Ubuntu 24.04.4 (x86_64)
 
 ### Requirements
 
-Installed virtual environment `mamba` (https://github.com/conda-forge/miniforge)
+ Installed [Miniforge](https://github.com/conda-forge/miniforge), which provides `conda` and `mamba`
 
 ### Run
 
 1. Clone the repository
     ```bash
-    git clone <repository_url>
+    git clone git@github.com:KamilaS1/HW6_venv_Sagitdinova.git
     ```
 
 2. Go to the project directory
@@ -31,7 +31,7 @@ Installed virtual environment `mamba` (https://github.com/conda-forge/miniforge)
 
 4. Activate the environment (all of the following steps must be run inside it)
     ```bash
-    mamba activate hw6
+    conda activate hw6
     ```
 
 5. Install the dependencies
@@ -69,7 +69,7 @@ Installed virtual environment `mamba` (https://github.com/conda-forge/miniforge)
     ```
     ✨❤ Всё работает, ты больш(ой/ая) молодец!!! ✨❤
     ```
-# Rest
+## Rest
 My friends and I celebrated Halloween, I was dressed as Fiona from Shrek when she turned into an ogre:
 
    ![We celebrated Halloween with friends](images/halloween.png)
